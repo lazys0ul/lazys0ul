@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lazys0ul aka Pranav
 - 👀 I’m inetrested in web dev, devops, web3, blockchain and writing for now.
-- 🌱 I’m currently learning javscript and its framework with its practical use building websites.
+- 🌱 I’m currently learning javscript and its frameworks through practical apllication, building websites.
   
 
 <!---
