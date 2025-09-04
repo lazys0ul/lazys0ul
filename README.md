@@ -1,4 +1,4 @@
-<h6 align="left">Hi, my name is @lazys0ul aka Pranav.<br><br>I work as a freelancer and web development intern.<br><br>I'm pursuing an Integrated MSc in Mathematics and Computing.<br><br>currently learning JavaScript and its frameworks through practical application, building websites.<br><br>I’m interested in web dev, DevOps, web3, blockchain, music, fine arts and writing.</h6>
+<h6 align="left">Hi, my name is @lazys0ul aka Pranav.<br><br>I work as a freelancer and web developer.<br><br>I'm pursuing an Integrated MSc in Mathematics and Computing.<br><br>currently learning JavaScript and its frameworks through practical application, building websites.<br><br>I’m interested in web dev, DevOps, web3, blockchain, music, fine arts and writing.</h6>
 
 ###
 
