@@ -1,14 +1,6 @@
 <h6 align="left">Hi, my name is @lazys0ul aka Pranav.<br><br>I work as a freelancer and web developer.<br><br>I'm pursuing an Integrated MSc in Mathematics and Computing.<br><br>currently learning JavaScript and its frameworks through practical application, building websites.<br><br>I’m interested in web dev, DevOps, web3, blockchain, music, fine arts and writing.</h6>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=lazys0ul&locale=en&mode=daily&theme=react&hide_border=true&border_radius=3&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lazys0ul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazys0ul&theme=github-dark-dimmed&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=lazys0ul&theme=flat&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lazys0ul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=discord_old_blurple&hide_border=false" height="140" alt="languages graph"  />
-</div>
 
 ###
 
