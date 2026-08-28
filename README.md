@@ -1,4 +1,4 @@
-<h6 align="left">Hi, my name is @lazys0ul aka Pranav.<br><br>I work as a freelancer and web developer.<br><br>I'm open to work on all kinds of ERPs, EHRs, EMRs, HMS and other management systems.<b><br>Have successfully shipped smart face recognition biometric attendance software and HMS to healthcare professionals<br><br>Currently developing my own universal ERP "Sutra". To buy my services or for trials contact me the platforms down below</br></h6>
+<h6 align="left">Hi, my name is @lazys0ul aka Pranav.<br><br>I work as a freelancer and web developer.<br><br>I'm open to work on all kinds of ERPs, EHRs, EMRs, HMS and other management systems.<b><br>Have successfully shipped smart face recognition biometric attendance software and HMS to healthcare professionals<br><br>Currently developing my own universal ERP "Sutra". To buy my services or for trials connect me on the platforms down below</br></h6>
 
 
 
