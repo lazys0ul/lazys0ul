@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Pranav (@lazys0ul)</h1>
-
 <p align="center">
-  <em>Freelancer & web developer — built ERPs, EHRs, EMRs, HMS and other management systems.</em>
+  <em>Freelancer & web developer.</em>
 </p>
 
 <p align="center">
