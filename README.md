@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pranav (@lazys0ul)</h1>
 
 <p align="center">
-  <em>Freelancer & web developer — I build ERPs, EHRs, EMRs, HMS and other management systems.</em>
+  <em>Freelancer & web developer — built ERPs, EHRs, EMRs, HMS and other management systems.</em>
 </p>
 
 <p align="center">
@@ -11,10 +11,11 @@
 ---
 
 ## About me
-- Name: Pranav (GitHub: @lazys0ul)
-- Role: Freelance Web Developer
-- Interests: ERPs, EHRs, EMRs, Hospital Management Systems, and general management system workflows.
+- hi lazys0ul this side aka Pranav
+- Currently freelancing, always open for internships or remote jobs though.
+- I can help you with ERPs, EHRs, EMRs, Hospital Management Systems, any kind of general management systems and their workflows.
 - I enjoy building reliable, maintainable systems and shipping product-focused features quickly.
+- Worked as a web dev intern and have experience in building and shipping my very own ERPs and other customized on demand solutions to hospitals and professionals.
 
 ---
 
@@ -44,9 +45,11 @@
 ## What I work on
 - Full-stack web apps (React / TypeScript / Node)
 - Database design & integrations (MySQL, migrations, backups)
-- Healthcare/enterprise workflows (SaaS and customized EHR/EMR/HMS/ERP)
+- Healthcare/Enterprise workflows (SaaS and customized EHR/EMR/HMS/ERP)
 - Automation, integrations with third-party APIs and services
 - Android applications
+- DBMS and analytics
+- still learning - Biometrics, Visual recog., Computer vision and geo-tagging/fencing (basically newbie but have already sold one such software ✌️)
 
 ---
 
